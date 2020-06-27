@@ -9,10 +9,6 @@ module.exports = {
   },
   plugins: [
     `@reflexjs/gatsby-theme-base`,
-    `@reflexjs/gatsby-theme-doc`,
-    `@reflexjs/gatsby-theme-library`,
-    `@reflexjs/gatsby-theme-tutorial`,
-    `@reflexjs/gatsby-theme-styleguide`,
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
